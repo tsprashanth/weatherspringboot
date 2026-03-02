@@ -1,7 +1,7 @@
-package com.example.weather.controller;
+package com.weather.controller;
 
-import com.example.weather.model.WeatherResponse;
-import com.example.weather.service.WeatherService;
+import com.weather.model.WeatherResponse;
+import com.weather.service.WeatherService;
 import org.springframework.web.bind.annotation.*;
 
 @RestController
