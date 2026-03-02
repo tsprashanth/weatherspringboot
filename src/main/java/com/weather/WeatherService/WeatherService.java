@@ -1,6 +1,6 @@
-package com.example.weather.service;
+package com.weather.service;
 
-import com.example.weather.model.WeatherResponse;
+import com.weather.model.WeatherResponse;
 import org.springframework.stereotype.Service;
 import org.springframework.web.client.RestTemplate;
 
